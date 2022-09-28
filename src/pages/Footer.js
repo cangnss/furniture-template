@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
         <div>
-            footer
+            <p className="text-lg font-medium">footer</p>
         </div>
     )
 }
